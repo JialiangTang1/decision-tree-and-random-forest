@@ -1,1 +1,1 @@
-# decision-tree-and-random-forest
+In this project we implement KNN, decision tree, random forest and apply bagging/boosting. Finally we have histogram and kernal density estimation. The dataset used here is the toy dataset from sklearn diabetes.
